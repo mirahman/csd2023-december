@@ -1,0 +1,11 @@
+# read and understand the problem 
+
+the actual problem :)
+
+https://github.com/NotMyself/GildedRose
+
+example code in different language 
+
+https://github.com/emilybache/GildedRose-Refactoring-Kata
+
+Now choose your language as a team and start refactoring. 
